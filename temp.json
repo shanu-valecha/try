@@ -1,0 +1,18 @@
+{
+"CCA":[
+  {"firstName":"Shanu", "lastName":"Valecha"}, 
+  {"firstName":"Shweta", "lastName":"Singh"},
+  {"firstName":"Bhavik", "lastName":"Rukhiyana"},
+  {"firstName":"Avani", "lastName":"Bajaj"}
+],
+"CPA":[
+  {"firstName":"Vaishali", "lastName":"Sahu"},
+  {"firstName":"Shiksha", "lastName":"Rusia"},
+  {"firstName":"Yashashri", "lastName":"Naitam"}
+],
+"IC":[
+  {"firstName":"Bhagyashree", "lastName":"Borker"},
+  {"firstName":"Amanraj", "lastName":"Singh"},
+  {"firstName":"Anjil", "lastName":"Kadwe"}
+]
+}
